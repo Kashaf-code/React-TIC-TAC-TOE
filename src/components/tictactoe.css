@@ -1,0 +1,21 @@
+body{
+    background-color: #123;
+}
+
+td{
+    height:150px;
+    width: 150px;
+    border:1px solid rgb(104, 178, 202);
+    text-align: center;
+    font-size: 80px;
+    color: rosybrown;
+}
+table{
+    margin-left: 35%;
+    margin-top: 5%;
+}
+
+h1{
+   color: white;
+   margin-top: 2%;
+}
